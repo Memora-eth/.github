@@ -7,6 +7,8 @@
 Memora is a pioneering organization at the forefront of AI and Web3 technology. Our mission is to revolutionize digital asset management by leveraging artificial intelligence and blockchain technology. We develop cutting-edge solutions that analyze social media presence and automate the transfer of digital assets on-chain, providing unprecedented levels of security and ownership in the digital realm.
 
 ![Memora Dashboard](https://github.com/user-attachments/assets/45f0409e-d0be-4bcb-8141-d71e8deaf5cf)
+![image](https://github.com/user-attachments/assets/69116a04-5754-4031-8184-230cbfec72d8)
+
 
 ## Our Vision
 
@@ -15,8 +17,6 @@ We envision a future where individuals have complete control and ownership of th
 ## Key Projects
 
 ![Memora Features](https://github.com/user-attachments/assets/2053eed1-e917-4140-aa62-b15cfcc25abd)
-![image](https://github.com/user-attachments/assets/69116a04-5754-4031-8184-230cbfec72d8)
-
 
 1. **Memora Core**: Our flagship Web3 application for AI-powered social media analysis and on-chain asset transfer.
 2. **MemorAI**: Advanced AI algorithms for identifying valuable digital assets across various social media platforms.
