@@ -45,6 +45,8 @@ We're always looking for talented individuals and organizations to collaborate w
 For business inquiries: memoraeth@gmail.com
 For support: memoraeth@gmail.com
 
+Follow us on https://warpcast.com/emeow ! 
+
 
 <!--
 
