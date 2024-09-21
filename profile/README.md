@@ -1,4 +1,7 @@
-Memora is place when assurance becomes automized
+# Welcome to Memora where assurance becomes automized
+
+![image](https://github.com/user-attachments/assets/d24c196e-dd56-4e8d-8c8b-8664c0fe0264)
+
 <!--
 
 **Here are some ideas to get you started:**
