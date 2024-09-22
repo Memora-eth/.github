@@ -18,10 +18,10 @@ We envision a future where individuals have complete control and ownership of th
 
 ![Memora Features](https://github.com/user-attachments/assets/2053eed1-e917-4140-aa62-b15cfcc25abd)
 
-1. **Memora Core**: Our flagship Web3 application for AI-powered social media analysis and on-chain asset transfer.
-2. **MemorAI**: Advanced AI algorithms for identifying valuable digital assets across various social media platforms.
-3. **Memora Chain**: A custom blockchain solution optimized for digital asset management and transfer.
-4. **Memora Vault**: A decentralized storage solution ensuring the highest level of security for your digital assets.
+1. **Memora Core**: Our Backend Services for managing Cron Jobs and Automating Trigger Life Events.
+2. **MemorAI**: Advanced AI algorithms for identifying and validating information from farcast social media.
+3. **Memora UI**: Web3 platform for providing best UX when creating a memora time capsule.
+4. **Memora Smart Contract**: an ERC 721 with customized function that mirror Runes proposals.
 
 ## Technology Stack
 
